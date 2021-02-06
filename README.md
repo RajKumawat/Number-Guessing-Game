@@ -13,3 +13,5 @@ The random() function is used to generate a random number between 0 (inclusive) 
 
 ### 3. Math.floor() : 
 The floor() function is used to return the number to the nearest integer (downwards). The value will not be rounded, if the passed argument is an integer.
+
+### Languag - JavaScript
